@@ -115,7 +115,7 @@ if __name__ == '__main__':
     # 1. CONFIGURE AQUI: Altere o nome do arquivo para o seu CSV.
     #    Certifique-se de que o script e o seu CSV estão na mesma pasta,
     #    ou forneça o caminho completo (ex: 'C:/Users/Usuario/Documentos/meu_log.csv').
-    arquivo_csv_entrada = 'C:\\Users\\Marcos\\Desktop\\artigo\\testes_artigo\\2060\\system_metrics.csv'
+    arquivo_csv_entrada = '/home/lab211/artigo/tests/2060/qwen3/system_metrics.csv'
 
     arquivo_md_saida = 'relatorio_consumo.md'
     
